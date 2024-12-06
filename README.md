@@ -19,7 +19,7 @@ This project delves into Blinkit's sales data, utilizing Microsoft Excel to craf
 * **Product Mix:** ⚖️ Balanced regular and low-fat options
 
 ### **Data and Tools**
-* **Raw Data:** - <a href="https://github.com/SunnyRao07/Dynamic-Visualization-of-BlinkIt-Data-in-Excel/blob/main/BlinkIT%20Grocery%20-%20Raw%20Data.xlsx">📁<a/>
+* **Raw Data:** - <a href="https://github.com/SunnyRao07/Dynamic-Visualization-of-BlinkIt-Data-in-Excel/blob/main/BlinkIT%20Grocery%20-%20Raw%20Data.xlsx">Click here to access the file - 📁<a/>
 * **Microsoft Excel:** 📊 The core tool 
 * **Pivot Tables and Pivot Charts:** 📈 Data summarization and visualization
 * **Conditional Formatting:** 🎨 Enhancing data clarity
@@ -37,12 +37,12 @@ This project delves into Blinkit's sales data, utilizing Microsoft Excel to craf
 * **Quality Checks:** ✅ Validated calculations, cross-checked totals, and verified data relationships.
 
 ### **Visualizations**
-[Insert Screenshot of Dashboard]
+
 ![Screenshot 2024-12-06](https://github.com/user-attachments/assets/2ef71390-2fd7-4c6a-95f7-ab4c09a06ac8)
 
 
 ### **Analyzed Data**
-[Link to Analyzed Data Excel File]https://github.com/SunnyRao07/Dynamic-Visualization-of-BlinkIt-Data-in-Excel/blob/main/Blinkit%20Grocery%20-%20Dashboard.xlsx
+- <a href="https://github.com/SunnyRao07/Dynamic-Visualization-of-BlinkIt-Data-in-Excel/blob/main/Blinkit%20Grocery%20-%20Dashboard.xlsx">Click here to access the file - 📁<a/>
 
 **Visualization Techniques:**
 * **Line Charts:** 📈 Visualizing trends over time.
